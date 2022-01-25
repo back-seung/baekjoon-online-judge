@@ -1,0 +1,1 @@
+package problem;import java.util.Scanner;public class P10809 {    public static void main(String[] args) {    }}
