@@ -1,1 +1,1 @@
-public class Main {    public static void main(String[] args) {    }}
+public class Main {    public static void main(String[] args) {        double pi = -3.14;        double result = Math.ceil(Math.abs(pi));        System.out.println(result);    }}
