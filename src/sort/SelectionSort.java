@@ -1,0 +1,1 @@
+package sort;public class SelectionSort {    public static void main(String[] args) {        int[] arr = {7, 5, 6, 4, 8, 9, 2, 10, 1, 3};        int temp = 0;        int min = 0;        for (int i = 0; i < arr.length; i++) {        }    }}
