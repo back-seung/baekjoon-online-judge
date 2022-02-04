@@ -31,6 +31,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24BCk0WQyyHmg76GnuJHX8w0udE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
@@ -43,8 +46,43 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="power.mode.ii" />
   </component>
-  <component name="RunManager" selected="Application.B1110">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/while2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.B10951">
+    <configuration name="B10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="while2.B10951" />
+      <module name="BJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="while2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="while2.B10952" />
+      <module name="BJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="while2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="B1110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem.B1110" />
       <module name="BJ" />
@@ -78,34 +116,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P4344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem.P4344" />
-      <module name="BJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P8958" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem.P8958" />
-      <module name="BJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B10951" />
+        <item itemvalue="Application.B10952" />
         <item itemvalue="Application.B1110" />
         <item itemvalue="Application.Main" />
       </list>
@@ -124,6 +138,7 @@
       <workItem from="1643270724992" duration="986000" />
       <workItem from="1643525430328" duration="5734000" />
       <workItem from="1643536985730" duration="147000" />
+      <workItem from="1643951651899" duration="1442000" />
     </task>
     <servers />
   </component>
