@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe245ee0-b591-41b7-a758-0dbd374f3b43" name="Changes" comment="">
+    <list default="true" id="fe245ee0-b591-41b7-a758-0dbd374f3b43" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BJ/string/B2675.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/B2675.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BJ/while2/B10951.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BJ/while2/B10951.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +60,7 @@
       <recent name="$PROJECT_DIR$/src/while2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B10951">
+  <component name="RunManager" selected="애플리케이션.B2675">
     <configuration name="B10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="while2.B10951" />
       <module name="BJ" />
@@ -96,19 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="BJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem.P11720" />
+    <configuration name="B2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.B2675" />
       <module name="BJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problem.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +113,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B10951" />
-        <item itemvalue="Application.B10952" />
-        <item itemvalue="Application.B1110" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="애플리케이션.B2675" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +139,10 @@
       <workItem from="1643270724992" duration="986000" />
       <workItem from="1643525430328" duration="5734000" />
       <workItem from="1643536985730" duration="147000" />
-      <workItem from="1643951651899" duration="1442000" />
+      <workItem from="1643951651899" duration="5809000" />
+      <workItem from="1644039135589" duration="37000" />
+      <workItem from="1644039357035" duration="3122000" />
+      <workItem from="1644148679192" duration="82000" />
     </task>
     <servers />
   </component>
