@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe245ee0-b591-41b7-a758-0dbd374f3b43" name="Changes" comment="Changes">
+    <list default="true" id="fe245ee0-b591-41b7-a758-0dbd374f3b43" name="Changes" comment="B1157 changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BJ/string/B2675.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BJ/string/B2675.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/B2675.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/B2675.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/B1157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/B1157.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +144,8 @@
       <workItem from="1644191390839" duration="1752000" />
       <workItem from="1644195522650" duration="13000" />
       <workItem from="1644202983489" duration="3856000" />
+      <workItem from="1644371787603" duration="611000" />
+      <workItem from="1644396633905" duration="2704000" />
     </task>
     <servers />
   </component>
@@ -161,6 +162,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="B1157 changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="B1157 changed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
