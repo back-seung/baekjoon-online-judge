@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe245ee0-b591-41b7-a758-0dbd374f3b43" name="Changes" comment="B1157 changed" />
+    <list default="true" id="fe245ee0-b591-41b7-a758-0dbd374f3b43" name="Changes" comment="B1157 changed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BJ/resource/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BJ/resource/sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BJ/string/TXTReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BJ/string/TXTReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BJ/string/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BJ/string/Test.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,16 +62,55 @@
     <property name="project.structure.last.edited" value="프로젝트" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/while2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Main (1)">
-    <configuration name="B1157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.B1157" />
+  <component name="RunManager" selected="Application.getPrimeNum">
+    <configuration name="B10872" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem.B10872" />
+      <module name="BJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B25305" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem.B25305" />
+      <module name="BJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2750" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem.B2750" />
+      <module name="BJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.Equals" />
       <module name="BJ" />
       <extension name="coverage">
         <pattern>
@@ -78,45 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.B2675" />
+    <configuration name="getPrimeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bruteforce.getPrimeNum" />
       <module name="BJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="run.Main" />
-      <module name="BJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="run.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="BJ" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.Test" />
-      <module name="BJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="bruteforce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,10 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Main (1)" />
-        <item itemvalue="애플리케이션.Test" />
-        <item itemvalue="애플리케이션.B1157" />
-        <item itemvalue="애플리케이션.B2675" />
+        <item itemvalue="Application.getPrimeNum" />
+        <item itemvalue="Application.B25305" />
+        <item itemvalue="Application.B10872" />
+        <item itemvalue="Application.B2750" />
+        <item itemvalue="Application.Equals" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +168,12 @@
       <workItem from="1644371787603" duration="611000" />
       <workItem from="1644396633905" duration="2765000" />
       <workItem from="1648277872534" duration="9152000" />
+      <workItem from="1658761097217" duration="878000" />
+      <workItem from="1658763096621" duration="2065000" />
+      <workItem from="1659615565635" duration="1182000" />
+      <workItem from="1659710688857" duration="2059000" />
+      <workItem from="1659867776465" duration="2960000" />
+      <workItem from="1660368770706" duration="5055000" />
     </task>
     <task id="LOCAL-00001" summary="B1157 changed">
       <created>1644407982581</created>
