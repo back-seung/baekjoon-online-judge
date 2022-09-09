@@ -1,0 +1,1 @@
+package programmers;public class isSqrt {    public long solution(long n) {        long answer = 0;        long sqrt = (long) Math.sqrt(n);        System.out.println(sqrt);        if (sqrt * sqrt == n) {            sqrt += 1;            answer = sqrt * sqrt;        } else {            answer = -1;        }        return answer;    }}
