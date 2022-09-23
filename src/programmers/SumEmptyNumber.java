@@ -1,0 +1,1 @@
+package programmers;import java.util.Arrays;public class SumEmptyNumber {    public int solution(int[] numbers) {        int answer = 0;        final int MATCHED_SUM = 45;        answer = MATCHED_SUM - Arrays.stream(numbers).sum();        return answer;    }}
