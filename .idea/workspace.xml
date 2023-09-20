@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe245ee0-b591-41b7-a758-0dbd374f3b43" name="Changes" comment="정렬 4문제 추가 Solve">
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dp/B10942RE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dp/B10942RE.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,10 @@
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-1.8.0_322/Contents/Home/src.zip!/java/util/Stack.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-1.8.0_322/Contents/Home/src.zip!/java/util/stream/LongPipeline.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-1.8.0_322/Contents/Home/src.zip!/sun/nio/cs/StreamEncoder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/jbr-17.0.8/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/jbr-17.0.8/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/jbr-17.0.8/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/jbr-17.0.8/Contents/Home/lib/src.zip!/java.base/java/util/StringTokenizer.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -84,16 +88,17 @@
       <recent name="$PROJECT_DIR$/src/while2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dp" />
       <recent name="sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B9095RE">
-    <configuration name="B10814" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.B10814" />
+  <component name="RunManager" selected="Application.B1700">
+    <configuration name="B1541" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.B1541" />
       <module name="BJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B1427" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.B1427" />
+    <configuration name="B1700" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.B1700" />
       <module name="BJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B1463RE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.B1463RE" />
+    <configuration name="B1931 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.B1931" />
       <module name="BJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.B1920" />
+    <configuration name="B1931 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.B1931" />
       <module name="BJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B9095RE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.B9095RE" />
+    <configuration name="B1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.B1931" />
       <module name="BJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B9095RE" />
-        <item itemvalue="Application.B1463RE" />
-        <item itemvalue="Application.B10814" />
-        <item itemvalue="Application.B1920" />
-        <item itemvalue="Application.B1427" />
+        <item itemvalue="Application.B1700" />
+        <item itemvalue="Application.B1541" />
+        <item itemvalue="Application.B1931 (2)" />
+        <item itemvalue="Application.B1931 (1)" />
+        <item itemvalue="Application.B1931" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +203,12 @@
       <workItem from="1693829036504" duration="211000" />
       <workItem from="1693973836264" duration="4009000" />
       <workItem from="1694008638978" duration="44000" />
-      <workItem from="1694439837881" duration="3295000" />
+      <workItem from="1694439837881" duration="11039000" />
+      <workItem from="1694591751057" duration="2975000" />
+      <workItem from="1694786515386" duration="1828000" />
+      <workItem from="1694797316947" duration="141000" />
+      <workItem from="1695180263551" duration="16000" />
+      <workItem from="1695180282270" duration="10135000" />
     </task>
     <task id="LOCAL-00001" summary="B1157 changed">
       <created>1644407982581</created>
